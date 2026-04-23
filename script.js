@@ -1,4 +1,4 @@
-const API_URL = "https://seu-app.onrender.com/api";
+const API_URL = "https://projeto-express-qehn.onrender.com/";
 
 async function buscarData() {
   try {
